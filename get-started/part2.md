@@ -169,7 +169,7 @@ you have.
 
 We are ready to build the app. Make sure you are still at the top level of your new directory. Here's what `ls` should show:
 
-```shell
+```shelljuhbygtfuhijkol
 $ ls
 Dockerfile		app.py			requirements.txt
 ```
